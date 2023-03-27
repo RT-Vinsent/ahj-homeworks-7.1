@@ -2,11 +2,14 @@
 
 ---  
 
-### Ссылкка на [frontend](https://rt-vinsent.github.io/ahj-homeworks-7.2/)  
+### Ссылкка на [github-pages](https://rt-vinsent.github.io/ahj-homeworks-7.2/)
+### Ссылкка на [frontend репозиторий](https://rt-vinsent.github.io/ahj-homeworks-7.2/)  
+### Ссылкка на [backend репозиторий](https://rt-vinsent.github.io/ahj-homeworks-7.1/)  
+### Ссылкка на [backend сервер](https://ahj-hw7-1.onrender.com/)  
 
 ---  
 
-[![pages-build-deployment](https://github.com/RT-Vinsent/ahj-homeworks-5/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RT-Vinsent/ahj-homeworks-7.1/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/RT-Vinsent/ahj-homeworks-7.1/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RT-Vinsent/ahj-homeworks-7.1/actions/workflows/pages/pages-build-deployment)
 
 ---  
 
