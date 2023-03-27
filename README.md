@@ -9,10 +9,6 @@
 
 ---  
 
-[![pages-build-deployment](https://github.com/RT-Vinsent/ahj-homeworks-7.1/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RT-Vinsent/ahj-homeworks-7.1/actions/workflows/pages/pages-build-deployment)
-
----  
-
 # Домашнее задание к занятию "7. Работа с HTTP"
 
 Правила сдачи задания:
